@@ -1,0 +1,2 @@
+#!/bin/bash
+ptintif "%x\n" $DECIMAL
